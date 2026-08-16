@@ -16,10 +16,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vivekkr880/DSA-Practice/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/vivekkr880/DSA-Practice/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vivekkr880/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/vivekkr880/DSA-Practice/tree/master/0283-move-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/vivekkr880/DSA-Practice/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

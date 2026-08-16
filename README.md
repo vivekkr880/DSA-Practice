@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vivekkr880/DSA-Practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vivekkr880/DSA-Practice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/vivekkr880/DSA-Practice/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vivekkr880/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/vivekkr880/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vivekkr880/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vivekkr880/DSA-Practice/tree/master/0485-max-consecutive-ones) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vivekkr880/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vivekkr880/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vivekkr880/DSA-Practice/tree/master/0018-4sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vivekkr880/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/vivekkr880/DSA-Practice/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vivekkr880/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
@@ -87,4 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vivekkr880/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vivekkr880/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vivekkr880/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vivekkr880/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

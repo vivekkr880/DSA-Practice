@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vivekkr880/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/vivekkr880/DSA-Practice/tree/master/0010-regular-expression-matching) |
 ## Array
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/vivekkr880/DSA-Practice/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/vivekkr880/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vivekkr880/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vivekkr880/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/vivekkr880/DSA-Practice/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->

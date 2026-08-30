@@ -7,15 +7,15 @@ public:
         for (int row = 1; row <= numRows; row++) {
             
             vector<int> ansRow;
-            long long value = 1;
+            long long ans = 1;
 
             ansRow.push_back(1);
 
             for (int col = 1; col < row; col++) {
-                value = value * (row - col);
-                value = value / col;
+                ans = ans * (row - col);
+                ans = ans / col;
 
-                ansRow.push_back(value);
+                ansRow.push_back(ans);
             }
 
             result.push_back(ansRow);

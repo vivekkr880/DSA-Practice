@@ -4,7 +4,9 @@ public:
         int n = arr.size();
         int sum = 0;
 
-        for(int i = 0; i < n; i++) {
+        for(int i = 0; i < n; i++) {   //i = starting index
+                                       //j = ending index
+                                       //k = elements ko traverse karne ke liye
             for(int j = i; j < n; j++) {
                 if((j - i + 1) % 2 != 0) {
                     for(int k = i; k <= j; k++) {

@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/vivekkr880/DSA-Practice/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/vivekkr880/DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/vivekkr880/DSA-Practice/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 ## Trie
 |  |
 | ------- |

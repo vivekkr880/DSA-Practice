@@ -5,12 +5,12 @@ public:
         int n = nums.size();
         long long closest_sum = INT_MAX; 
         
-        for (int i = 0; i < n - 2; ++i) {
-            int left = i + 1;
-            int right = n - 1;
+        for (int i = 0; i < n; i++) {
+            int j = i + 1;
+            int k = n - 1;
             
-            while (left < right) {
-                long long current_sum = (long long)nums[i] + nums[left] + nums[right];
+            while (j < k) {
+                long long current_sum = (long long)nums[i] + nums[j] + nums[k];
                 
                 if (current_sum == target) {
                     return current_sum;
@@ -21,9 +21,9 @@ public:
                 }
                 
                 if (current_sum < target) {
-                    ++left;
+                    j++;
                 } else {
-                    --right;
+                    k--;
                 }
             }
         }

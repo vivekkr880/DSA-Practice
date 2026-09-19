@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vivekkr880/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vivekkr880/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vivekkr880/DSA-Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vivekkr880/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vivekkr880/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vivekkr880/DSA-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/vivekkr880/DSA-Practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vivekkr880/DSA-Practice/tree/master/0268-missing-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vivekkr880/DSA-Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vivekkr880/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vivekkr880/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vivekkr880/DSA-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/vivekkr880/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/vivekkr880/DSA-Practice/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vivekkr880/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vivekkr880/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
 | ------- |

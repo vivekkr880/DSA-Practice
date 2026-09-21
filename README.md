@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/vivekkr880/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vivekkr880/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vivekkr880/DSA-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2239-find-closest-number-to-zero](https://github.com/vivekkr880/DSA-Practice/tree/master/2239-find-closest-number-to-zero) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/vivekkr880/DSA-Practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/vivekkr880/DSA-Practice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers

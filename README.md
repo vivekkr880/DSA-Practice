@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vivekkr880/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/vivekkr880/DSA-Practice/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vivekkr880/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/vivekkr880/DSA-Practice/tree/master/0010-regular-expression-matching) |
+| [0206-reverse-linked-list](https://github.com/vivekkr880/DSA-Practice/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
 | ------- |

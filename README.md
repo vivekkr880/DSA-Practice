@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vivekkr880/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vivekkr880/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/vivekkr880/DSA-Practice/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 ## Sliding Window
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/vivekkr880/DSA-Practice/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/vivekkr880/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/vivekkr880/DSA-Practice/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/vivekkr880/DSA-Practice/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/vivekkr880/DSA-Practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Trie
 |  |

@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vivekkr880/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vivekkr880/DSA-Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vivekkr880/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vivekkr880/DSA-Practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vivekkr880/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vivekkr880/DSA-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/vivekkr880/DSA-Practice/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vivekkr880/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vivekkr880/DSA-Practice/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/vivekkr880/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vivekkr880/DSA-Practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vivekkr880/DSA-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/vivekkr880/DSA-Practice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/vivekkr880/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/vivekkr880/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vivekkr880/DSA-Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vivekkr880/DSA-Practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Number Theory
 |  |
 | ------- |

@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vivekkr880/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/vivekkr880/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/vivekkr880/DSA-Practice/tree/master/0896-monotonic-array) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vivekkr880/DSA-Practice/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vivekkr880/DSA-Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1572-matrix-diagonal-sum](https://github.com/vivekkr880/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/vivekkr880/DSA-Practice/tree/master/1588-sum-of-all-odd-length-subarrays) |

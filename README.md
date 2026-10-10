@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vivekkr880/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/vivekkr880/DSA-Practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/vivekkr880/DSA-Practice/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/vivekkr880/DSA-Practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/vivekkr880/DSA-Practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vivekkr880/DSA-Practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/vivekkr880/DSA-Practice/tree/master/0367-valid-perfect-square) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/vivekkr880/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/vivekkr880/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vivekkr880/DSA-Practice/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/vivekkr880/DSA-Practice/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vivekkr880/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vivekkr880/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vivekkr880/DSA-Practice/tree/master/0229-majority-element-ii) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/vivekkr880/DSA-Practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/vivekkr880/DSA-Practice/tree/master/0258-add-digits) |
 ## Manacher
 |  |
@@ -286,4 +289,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vivekkr880/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vivekkr880/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vivekkr880/DSA-Practice/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vivekkr880/DSA-Practice/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vivekkr880/DSA-Practice/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vivekkr880/DSA-Practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

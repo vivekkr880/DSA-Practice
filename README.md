@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vivekkr880/DSA-Practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vivekkr880/DSA-Practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/vivekkr880/DSA-Practice/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/vivekkr880/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vivekkr880/DSA-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/vivekkr880/DSA-Practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/vivekkr880/DSA-Practice/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vivekkr880/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/vivekkr880/DSA-Practice/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/vivekkr880/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/vivekkr880/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vivekkr880/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vivekkr880/DSA-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vivekkr880/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/vivekkr880/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/vivekkr880/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0412-fizz-buzz](https://github.com/vivekkr880/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/vivekkr880/DSA-Practice/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/vivekkr880/DSA-Practice/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/vivekkr880/DSA-Practice/tree/master/2224-minimum-number-of-operations-to-convert-time) |

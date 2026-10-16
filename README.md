@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vivekkr880/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vivekkr880/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/vivekkr880/DSA-Practice/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/vivekkr880/DSA-Practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vivekkr880/DSA-Practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vivekkr880/DSA-Practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/vivekkr880/DSA-Practice/tree/master/0258-add-digits) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vivekkr880/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vivekkr880/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vivekkr880/DSA-Practice/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/vivekkr880/DSA-Practice/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/vivekkr880/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vivekkr880/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/vivekkr880/DSA-Practice/tree/master/0268-missing-number) |
@@ -312,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vivekkr880/DSA-Practice/tree/master/0204-count-primes) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vivekkr880/DSA-Practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

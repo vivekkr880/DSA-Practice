@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vivekkr880/DSA-Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vivekkr880/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vivekkr880/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/vivekkr880/DSA-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vivekkr880/DSA-Practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vivekkr880/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vivekkr880/DSA-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vivekkr880/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vivekkr880/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/vivekkr880/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/vivekkr880/DSA-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vivekkr880/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/vivekkr880/DSA-Practice/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vivekkr880/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/vivekkr880/DSA-Practice/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/vivekkr880/DSA-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/vivekkr880/DSA-Practice/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/vivekkr880/DSA-Practice/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2315-count-asterisks](https://github.com/vivekkr880/DSA-Practice/tree/master/2315-count-asterisks) |

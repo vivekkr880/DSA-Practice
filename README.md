@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vivekkr880/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vivekkr880/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/vivekkr880/DSA-Practice/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/vivekkr880/DSA-Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vivekkr880/DSA-Practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vivekkr880/DSA-Practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vivekkr880/DSA-Practice/tree/master/0204-count-primes) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vivekkr880/DSA-Practice/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/vivekkr880/DSA-Practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vivekkr880/DSA-Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/vivekkr880/DSA-Practice/tree/master/0268-missing-number) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vivekkr880/DSA-Practice/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/vivekkr880/DSA-Practice/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/vivekkr880/DSA-Practice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vivekkr880/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/vivekkr880/DSA-Practice/tree/master/0867-transpose-matrix) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vivekkr880/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vivekkr880/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/vivekkr880/DSA-Practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/vivekkr880/DSA-Practice/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/vivekkr880/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/vivekkr880/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekkr880/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |

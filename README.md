@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/vivekkr880/DSA-Practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/vivekkr880/DSA-Practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vivekkr880/DSA-Practice/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/vivekkr880/DSA-Practice/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/vivekkr880/DSA-Practice/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/vivekkr880/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vivekkr880/DSA-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/vivekkr880/DSA-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/vivekkr880/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vivekkr880/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/vivekkr880/DSA-Practice/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |

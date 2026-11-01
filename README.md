@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vivekkr880/DSA-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/vivekkr880/DSA-Practice/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/vivekkr880/DSA-Practice/tree/master/2239-find-closest-number-to-zero) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekkr880/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/vivekkr880/DSA-Practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/vivekkr880/DSA-Practice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vivekkr880/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vivekkr880/DSA-Practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vivekkr880/DSA-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekkr880/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/vivekkr880/DSA-Practice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekkr880/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vivekkr880/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/vivekkr880/DSA-Practice/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekkr880/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |

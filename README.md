@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/vivekkr880/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/vivekkr880/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/vivekkr880/DSA-Practice/tree/master/0896-monotonic-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vivekkr880/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vivekkr880/DSA-Practice/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vivekkr880/DSA-Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1572-matrix-diagonal-sum](https://github.com/vivekkr880/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vivekkr880/DSA-Practice/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekkr880/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/vivekkr880/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vivekkr880/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vivekkr880/DSA-Practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vivekkr880/DSA-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekkr880/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/vivekkr880/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vivekkr880/DSA-Practice/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vivekkr880/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/vivekkr880/DSA-Practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vivekkr880/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer

@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/vivekkr880/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/vivekkr880/DSA-Practice/tree/master/0896-monotonic-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vivekkr880/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/vivekkr880/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vivekkr880/DSA-Practice/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vivekkr880/DSA-Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1572-matrix-diagonal-sum](https://github.com/vivekkr880/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/vivekkr880/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/vivekkr880/DSA-Practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/vivekkr880/DSA-Practice/tree/master/0367-valid-perfect-square) |
+| [1004-max-consecutive-ones-iii](https://github.com/vivekkr880/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vivekkr880/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vivekkr880/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekkr880/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1004-max-consecutive-ones-iii](https://github.com/vivekkr880/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vivekkr880/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/vivekkr880/DSA-Practice/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekkr880/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vivekkr880/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vivekkr880/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vivekkr880/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/vivekkr880/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/vivekkr880/DSA-Practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vivekkr880/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer

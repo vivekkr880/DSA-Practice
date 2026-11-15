@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/vivekkr880/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vivekkr880/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [1603-design-parking-system](https://github.com/vivekkr880/DSA-Practice/tree/master/1603-design-parking-system) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/vivekkr880/DSA-Practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vivekkr880/DSA-Practice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vivekkr880/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/vivekkr880/DSA-Practice/tree/master/0867-transpose-matrix) |
+| [1603-design-parking-system](https://github.com/vivekkr880/DSA-Practice/tree/master/1603-design-parking-system) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vivekkr880/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vivekkr880/DSA-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Union-Find
@@ -416,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vivekkr880/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/vivekkr880/DSA-Practice/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->

@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/vivekkr880/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/vivekkr880/DSA-Practice/tree/master/0896-monotonic-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vivekkr880/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/vivekkr880/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/vivekkr880/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vivekkr880/DSA-Practice/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vivekkr880/DSA-Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/vivekkr880/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vivekkr880/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vivekkr880/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/vivekkr880/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vivekkr880/DSA-Practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vivekkr880/DSA-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekkr880/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vivekkr880/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekkr880/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/vivekkr880/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/vivekkr880/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/vivekkr880/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vivekkr880/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/vivekkr880/DSA-Practice/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/vivekkr880/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vivekkr880/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0992-subarrays-with-k-different-integers](https://github.com/vivekkr880/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1603-design-parking-system](https://github.com/vivekkr880/DSA-Practice/tree/master/1603-design-parking-system) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/vivekkr880/DSA-Practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Boyer–Moore Majority Vote Algorithm
